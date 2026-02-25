@@ -14,7 +14,7 @@ The system uses the K-Nearest Neighbors (KNN) algorithm to analyze travel data a
 
 ## Machine Learning Approach
 
-This project implements the K-Nearest Neighbors (KNN) algorithm using `scikit-learn`.
+This project implements the K-Nearest Neighbors (KNN) algorithm using scikit-learn.
 
 ### Features Used in the Model:
 - Cost  
