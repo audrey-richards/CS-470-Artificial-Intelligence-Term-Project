@@ -71,8 +71,3 @@ This visualization helps demonstrate how the KNN algorithm selects recommendatio
 - scikit-learn
 - matplotlib
 - Tkinter
-
----
-```bash
-git clone https://github.com/yourusername/travel-itinerary-recommender.git
-cd travel-itinerary-recommender
