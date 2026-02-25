@@ -1,4 +1,4 @@
-# ✈️ Travel Itinerary Recommender  
+# Travel Itinerary Recommender  
 ### CS 470 – Artificial Intelligence Term Project  
 **Author:** Audrey Richards  
 
